@@ -1,0 +1,26 @@
+_repo: The-Life-of-Jesus-of-Nazareth--13-A-Study_13228
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rhees, Rush
+    birthdate: 1860
+    deathdate: 1939
+    gutenberg_agent_id: '4943'
+    url: http://www.gutenberg.org/2009/agents/4943
+description: ''
+gutenberg_issued: '2004-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Biography'
+- !lcc 'BT'
+title: 'The Life of Jesus of Nazareth: A Study'
+url: http://www.gutenberg.org/ebooks/13228
